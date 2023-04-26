@@ -68,3 +68,11 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
+
+.jobbra {
+    float: right;
+}
+
+table {
+    margin: 5px;
+}
