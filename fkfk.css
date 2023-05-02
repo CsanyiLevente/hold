@@ -59,17 +59,15 @@ button:hover {
     transition: 0.5s;
 }
 
-.Dani{
-    size: 10px;
-    text-align: center;
+a {
+    color: yellow;
+    text-decoration: solid;
 }
 
-.Levi{
-    size: 15px;
-    text-align: center;
+#hold {
+    font-size: 20px;
 }
 
-.Mate{
-    size: 10px;
-    text-align: center;
+td {
+    color: yellow;
 }
