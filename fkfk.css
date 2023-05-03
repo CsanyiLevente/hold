@@ -69,5 +69,25 @@ a {
 }
 
 td {
-    color: yellow;
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+li{
+    color: white
+}
+
+#show{
+    float: right
+}
+
+#ship{
+    float: right;
+}
+
+#urhajo {
+    height: 690px;
 }
