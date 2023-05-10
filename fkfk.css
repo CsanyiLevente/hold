@@ -83,3 +83,8 @@ li{
 #ship{
     float: right;
 }
+
+#buzz {
+    width: 7%;
+    height: 5%;
+}
